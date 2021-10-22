@@ -1,0 +1,15 @@
+.name {
+  padding: 10px;
+  margin-right: 25px;
+  text-align: center;
+  font-style: 18px;
+  font-weight: bold;
+  color: teal;
+}
+
+.number {
+  padding: 10px;
+  margin-right: 15px;
+  text-align: center;
+  font-style: 18px;
+}
